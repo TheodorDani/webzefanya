@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55" height="48" viewBox="0 0 55 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fbc2eb;
+        font-size: 48px;
+        font-family: Gaegu-Bold, Gaegu;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="GZ" class="cls-1" transform="translate(0 36)"><tspan x="0" y="0">GZ</tspan></text>
+</svg>
